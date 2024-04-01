@@ -7,7 +7,7 @@ Técnico integrado ao Ensino Médio em Desenvolvimento de Sistemas na ETEC Macha
 
 Cursos
 
-Certificado em Fundamentos do Scrum 2022 - 2022
+Certificado em Fundamentos do Scrum 2022 - 2022 (SCRUMstudy)
 
 
 Experiência
