@@ -26,7 +26,14 @@ O objetivo deste projeto foi o desenvolvimento de um sistema web para automatiza
 Linguagens utilizadas: HTML, CSS, JavaScript e Python.
 
 Competências desenvolvidas (Soft Skills e Hard Skills):
-°Metodaologias Agile
-°HTML, CSS, JS e PY
+°Metodologias Agile.
+°HTML, CSS, JS e PY.
 °Desenvolvimento front-end.
+
+Contribuidores:
+Elisa da Silva Carvalho - Srum Master
+João Gabriel Ribeiro Mira - Product Owner
+Rebeca Gama Moraes - Desenvolvedor
+Nicholas Guilherme Coelho Teodoro - Desenvolvendor
+Víctor Henrique Teodoro Dias - Desenvolvendor
 
