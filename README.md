@@ -3,7 +3,12 @@
 <h3>Sobre mim</h3>
 
 Estudante da FATEC Prof. Jensen em Análise e Desenvolvimento de Sistemas com conhecimento técnico de informática, interessado em aprimorar os conhecimentos e dar suporte.
-Técnico integrado ao Ensino Médio em Desenvolvimento de Sistemas na ETEC Machado de Assis. {veja]
+Técnico integrado ao Ensino Médio em Desenvolvimento de Sistemas na ETEC Machado de Assis. 
+
+Trabalho na área de tecnologia na Faculdade Santo Antônio, onde aprendi diversos assuntos, por exemplo, desenvolvimento PHP, HTML, Python aplicados nos projetos que tive no meu trabalho e que são tecnologia aprendidas no meu ensino médio técnico ETEC e na FATEC.
+
+Faço consiultas para relatórios no Microsoft SQL Server e também...
+
 
 <h3>Cursos</h3>
 
